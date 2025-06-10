@@ -1,14 +1,169 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "chats": [
+    {
+      "id": 1,
+      "label": "109220-Naturalization",
+      "participants": [
+        {
+          "id": 1,
+          "name": "Cameron Phillips",
+          "avatar": null
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "avatar": null
+        },
+        {
+          "id": 99,
+          "name": "John Doe",
+          "avatar": null
+        }
+      ],
+      "lastMessage": "Please check this out!",
+      "lastMessageAt": "2023-10-01T19:10:00Z",
+      "lastMessageBy": 1,
+      "isRead": false,
+      "isGroup": true
+    },
+    {
+      "id": 2,
+      "label": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+      "participants": [
+        {
+          "id": 3,
+          "name": "Ellen",
+          "avatar": null
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "avatar": null
+        }
+      ],
+      "lastMessage": "Hey, please read.",
+      "lastMessageAt": "2021-06-01T19:10:00Z",
+      "lastMessageBy": 3,
+      "isRead": false,
+      "isGroup": true
+    },
+    {
+      "id": 3,
+      "label": "FastVisa Support",
+      "lastMessage": "Hey there! Welcome to your inbox.",
+      "lastMessageAt": "2021-05-02T14:30:00Z",
+      "isRead": true,
+      "isGroup": false
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "chatId": 1,
+      "senderId": 99,
+      "body": "Hello, how are you?",
+      "createdAt": "2023-10-01T19:01:00Z",
+      "replyTo": null
+    },
+    {
+      "id": 2,
+      "chatId": 1,
+      "senderId": 2,
+      "body": "I'm good, thanks! How about you?",
+      "createdAt": "2023-10-01T19:05:00Z",
+      "replyTo": 1
+    },
+    {
+      "id": 3,
+      "chatId": 1,
+      "senderId": 1,
+      "body": "Please check this out!",
+      "createdAt": "2023-10-01T19:10:00Z",
+      "replyTo": null
+    },
+    {
+      "id": 4,
+      "chatId": 2,
+      "senderId": 2,
+      "body": "Hey",
+      "createdAt": "2021-06-01T19:03:00Z",
+      "replyTo": null
+    },
+    {
+      "id": 5,
+      "chatId": 2,
+      "senderId": 2,
+      "body": "Hey, please read.",
+      "createdAt": "2021-06-01T19:10:00Z",
+      "replyTo": null
+    },
+    {
+      "id": 6,
+      "chatId": 3,
+      "senderId": 99,
+      "body": "Hello",
+      "createdAt": "2021-05-02T14:31:00Z",
+      "replyTo": null
+    },
+    {
+      "id": 5,
+      "chatId": 3,
+      "body": "Hey there! Welcome to your inbox.",
+      "createdAt": "2021-05-02T14:30:00Z",
+      "replyTo": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Cameron Phillips",
+      "avatar": null
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "avatar": null
+    },
+    {
+      "id": 3,
+      "name": "Ellen",
+      "avatar": null
+    },
+    {
+      "id": 99,
+      "name": "John Doe",
+      "avatar": null
+    }
   ],
   "profile": {
-    "name": "typicode"
+    "id": 99,
+    "avatar": null,
+    "name": "John Doe"
   }
 }
