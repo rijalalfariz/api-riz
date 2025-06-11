@@ -41,7 +41,7 @@
           "avatar": null
         }
       ],
-      "lastMessage": "Hey, please read.",
+      "lastMessage": "Hey, please read. I understand your initial concerns and thats very valid, Elizabeth. But you have to understand that this is a very complex case and we need to be thorough. I appreciate your patience and understanding.",
       "lastMessageAt": "2021-06-01T19:10:00Z",
       "lastMessageBy": 3,
       "isReaded": false,
@@ -100,7 +100,7 @@
       "id": 5,
       "chatId": 2,
       "senderId": 2,
-      "body": "Hey, please read.",
+      "body": "Hey, please read. I understand your initial concerns and thats very valid, Elizabeth. But you have to understand that this is a very complex case and we need to be thorough. I appreciate your patience and understanding.",
       "createdAt": "2021-06-01T19:10:00Z",
       "replyTo": null
     },
