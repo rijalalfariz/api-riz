@@ -50,6 +50,13 @@
     {
       "id": 3,
       "label": "FastVisa Support",
+      "participants": [
+        {
+          "id": 4,
+          "name": "FastVisa Support",
+          "avatar": null
+        }
+      ],
       "lastMessage": "Hey there! Welcome to your inbox.",
       "lastMessageAt": "2021-05-02T14:30:00Z",
       "isRead": true,
@@ -127,6 +134,11 @@
     {
       "id": 3,
       "name": "Ellen",
+      "avatar": null
+    },
+    {
+      "id": 4,
+      "name": "FastVisa Support",
       "avatar": null
     },
     {
