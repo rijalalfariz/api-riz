@@ -23,7 +23,7 @@
       "lastMessage": "Please check this out!",
       "lastMessageAt": "2023-10-01T19:10:00Z",
       "lastMessageBy": 1,
-      "isRead": false,
+      "isReaded": false,
       "isGroup": true
     },
     {
@@ -44,7 +44,7 @@
       "lastMessage": "Hey, please read.",
       "lastMessageAt": "2021-06-01T19:10:00Z",
       "lastMessageBy": 3,
-      "isRead": false,
+      "isReaded": false,
       "isGroup": true
     },
     {
@@ -59,7 +59,7 @@
       ],
       "lastMessage": "Hey there! Welcome to your inbox.",
       "lastMessageAt": "2021-05-02T14:30:00Z",
-      "isRead": true,
+      "isReaded": true,
       "isGroup": false
     }
   ],
