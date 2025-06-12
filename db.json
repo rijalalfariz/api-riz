@@ -87,7 +87,34 @@
       "chatId": 1,
       "senderId": 1,
       "body": "Please check this out!",
-      "createdAt": "2023-10-02T10:10:00Z",
+      "createdAt": "2023-10-05T10:10:00Z",
+      "replyTo": null,
+      "isReaded": false
+    },
+    {
+      "id": 8,
+      "chatId": 1,
+      "senderId": 99,
+      "body": "Hello, how are you? It's been a while since our last meeting. I hope you guys are always in good condition.",
+      "createdAt": "2024-10-01T19:01:00Z",
+      "replyTo": null,
+      "isReaded": true
+    },
+    {
+      "id": 9,
+      "chatId": 1,
+      "senderId": 2,
+      "body": "I'm good, thanks! How about you? Recently been working remotely as programmers, the working parters are very humble. i like it hahaha",
+      "createdAt": "2024-10-01T19:05:00Z",
+      "replyTo": 1,
+      "isReaded": true
+    },
+    {
+      "id": 10,
+      "chatId": 1,
+      "senderId": 1,
+      "body": "woowwww",
+      "createdAt": "2024-10-01T20:10:00Z",
       "replyTo": null,
       "isReaded": false
     },
@@ -119,7 +146,7 @@
       "isReaded": true
     },
     {
-      "id": 5,
+      "id": 7,
       "chatId": 3,
       "body": "Hey there! Welcome to your inbox.",
       "createdAt": "2021-05-02T14:30:00Z",
