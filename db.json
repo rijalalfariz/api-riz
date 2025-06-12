@@ -85,7 +85,7 @@
     {
       "id": 3,
       "chatId": 1,
-      "senderId": 99,
+      "senderId": 1,
       "body": "Please check this out!",
       "createdAt": "2023-10-02T10:10:00Z",
       "replyTo": null,
