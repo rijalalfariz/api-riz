@@ -70,7 +70,8 @@
       "senderId": 99,
       "body": "Hello, how are you?",
       "createdAt": "2023-10-01T19:01:00Z",
-      "replyTo": null
+      "replyTo": null,
+      "isReaded": true
     },
     {
       "id": 2,
@@ -78,7 +79,8 @@
       "senderId": 2,
       "body": "I'm good, thanks! How about you?",
       "createdAt": "2023-10-02T09:05:00Z",
-      "replyTo": 1
+      "replyTo": 1,
+      "isReaded": true
     },
     {
       "id": 3,
@@ -86,7 +88,8 @@
       "senderId": 1,
       "body": "Please check this out!",
       "createdAt": "2023-10-02T10:10:00Z",
-      "replyTo": null
+      "replyTo": null,
+      "isReaded": false
     },
     {
       "id": 4,
@@ -94,7 +97,8 @@
       "senderId": 2,
       "body": "Hey",
       "createdAt": "2021-06-01T19:03:00Z",
-      "replyTo": null
+      "replyTo": null,
+      "isReaded": false
     },
     {
       "id": 5,
@@ -102,7 +106,8 @@
       "senderId": 2,
       "body": "Hey, please read. I understand your initial concerns and thats very valid, Elizabeth. But you have to understand that this is a very complex case and we need to be thorough. I appreciate your patience and understanding.",
       "createdAt": "2021-06-01T19:10:00Z",
-      "replyTo": null
+      "replyTo": null,
+      "isReaded": false
     },
     {
       "id": 6,
@@ -110,14 +115,16 @@
       "senderId": 99,
       "body": "Hello",
       "createdAt": "2021-05-02T14:31:00Z",
-      "replyTo": null
+      "replyTo": null,
+      "isReaded": true
     },
     {
       "id": 5,
       "chatId": 3,
       "body": "Hey there! Welcome to your inbox.",
       "createdAt": "2021-05-02T14:30:00Z",
-      "replyTo": 6
+      "replyTo": 6,
+      "isReaded": true
     }
   ],
   "users": [
