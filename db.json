@@ -71,6 +71,7 @@
       "body": "Hello, how are you?",
       "createdAt": "2023-10-01T19:01:00Z",
       "replyTo": null,
+      "sharedContent": null,
       "isReaded": true
     },
     {
@@ -80,6 +81,7 @@
       "body": "I'm good, thanks! How about you?",
       "createdAt": "2023-10-02T09:05:00Z",
       "replyTo": 1,
+      "sharedContent": null,
       "isReaded": true
     },
     {
@@ -89,6 +91,7 @@
       "body": "Please check this out!",
       "createdAt": "2023-10-05T10:10:00Z",
       "replyTo": null,
+      "sharedContent": null,
       "isReaded": true
     },
     {
@@ -98,6 +101,7 @@
       "body": "Hello, how are you? It's been a while since our last meeting. I hope you guys are always in good condition.",
       "createdAt": "2024-10-01T19:01:00Z",
       "replyTo": null,
+      "sharedContent": null,
       "isReaded": true
     },
     {
@@ -107,6 +111,7 @@
       "body": "I'm good, thanks! How about you? Recently been working remotely as programmers, the working parters are very humble. i like it hahaha",
       "createdAt": "2024-10-01T19:05:00Z",
       "replyTo": 1,
+      "sharedContent": null,
       "isReaded": true
     },
     {
@@ -115,6 +120,7 @@
       "senderId": 1,
       "body": "woowwww",
       "createdAt": "2024-10-01T20:10:00Z",
+      "sharedContent": null,
       "replyTo": null,
       "isReaded": false
     },
@@ -125,6 +131,7 @@
       "body": "Hey",
       "createdAt": "2021-06-01T19:03:00Z",
       "replyTo": null,
+      "sharedContent": null,
       "isReaded": false
     },
     {
@@ -134,6 +141,7 @@
       "body": "Hey, please read. I understand your initial concerns and thats very valid, Elizabeth. But you have to understand that this is a very complex case and we need to be thorough. I appreciate your patience and understanding.",
       "createdAt": "2021-06-01T19:10:00Z",
       "replyTo": null,
+      "sharedContent": null,
       "isReaded": false
     },
     {
@@ -143,6 +151,7 @@
       "body": "Hello",
       "createdAt": "2021-05-02T14:31:00Z",
       "replyTo": null,
+      "sharedContent": null,
       "isReaded": true
     },
     {
@@ -151,6 +160,7 @@
       "body": "Hey there! Welcome to your inbox.",
       "createdAt": "2021-05-02T14:30:00Z",
       "replyTo": 6,
+      "sharedContent": null,
       "isReaded": true
     }
   ],
