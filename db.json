@@ -196,15 +196,109 @@
       "id": 1,
       "title": "Complete the application form",
       "description": "Fill out the application form for naturalization.",
-      "dueDate": "2023-10-15T00:00:00Z",
-      "isCompleted": false
+      "dueDate": "2025-6-16T00:00:00Z",
+      "isCompleted": false,
+      "taskMode": "My Task",
+      "stickers": [1, 2]
     },
     {
       "id": 2,
       "title": "Submit supporting documents",
       "description": "Gather and submit all required supporting documents.",
       "dueDate": "2023-10-20T00:00:00Z",
-      "isCompleted": false
+      "isCompleted": true,
+      "taskMode": "Personal Errand",
+      "stickers": []
+    },
+    {
+      "id": 3,
+      "title": "Complete the application form",
+      "description": "Fill out the application form for naturalization.",
+      "dueDate": "2025-7-16T00:00:00Z",
+      "isCompleted": false,
+      "taskMode": "My Task",
+      "stickers": [1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "id": 4,
+      "title": "Complete the application form",
+      "description": "Fill out the application form for naturalization.",
+      "dueDate": "2025-8-15T00:00:00Z",
+      "isCompleted": false,
+      "taskMode": "My Task",
+      "stickers": [1]
+    },
+    {
+      "id": 5,
+      "title": "Complete the application form",
+      "description": "Fill out the application form for naturalization.",
+      "dueDate": "2025-9-15T00:00:00Z",
+      "isCompleted": false,
+      "taskMode": "My Task",
+      "stickers": []
+    },
+    {
+      "id": 6,
+      "title": "Complete the application form",
+      "description": "Fill out the application form for naturalization.",
+      "dueDate": "2025-10-15T00:00:00Z",
+      "isCompleted": false,
+      "taskMode": "My Task",
+      "stickers": []
+    },
+    {
+      "id": 7,
+      "title": "Complete the application form",
+      "description": "Fill out the application form for naturalization.",
+      "dueDate": "2025-10-15T00:00:00Z",
+      "isCompleted": false,
+      "taskMode": "My Task",
+      "stickers": []
+    },
+    {
+      "id": 8,
+      "title": "Complete the application form",
+      "description": "Fill out the application form for naturalization.",
+      "dueDate": "2025-10-15T00:00:00Z",
+      "isCompleted": false,
+      "taskMode": "My Task",
+      "stickers": []
+    },
+    {
+      "id": 9,
+      "title": "Complete the application form",
+      "description": "Fill out the application form for naturalization.",
+      "dueDate": "2023-10-15T00:00:00Z",
+      "isCompleted": true,
+      "taskMode": "My Task",
+      "stickers": []
+    },
+    {
+      "id": 10,
+      "title": "Complete the application form",
+      "description": "Fill out the application form for naturalization.",
+      "dueDate": "2023-10-15T00:00:00Z",
+      "isCompleted": true,
+      "taskMode": "My Task",
+      "stickers": [2, 3, 4]
+    },
+    {
+      "id": 11,
+      "title": "Complete the application form",
+      "description": "Fill out the application form for naturalization.",
+      "dueDate": "2023-10-15T00:00:00Z",
+      "isCompleted": true,
+      "taskMode": "My Task",
+      "stickers": [5, 6, 7]
+    },
+    {
+      "id": 12,
+      "title": "Complete the application form",
+      "description": "Fill out the application form for naturalization.",
+      "dueDate": "2023-10-15T00:00:00Z",
+      "isCompleted": true,
+      "taskMode": "My Task",
+      "stickers": []
     }
   ],
   "profile": {
