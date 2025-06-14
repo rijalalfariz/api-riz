@@ -197,14 +197,14 @@
       "title": "Complete the application form",
       "description": "Fill out the application form for naturalization.",
       "dueDate": "2023-10-15T00:00:00Z",
-      "isCompleted": false,
+      "isCompleted": false
     },
     {
       "id": 2,
       "title": "Submit supporting documents",
       "description": "Gather and submit all required supporting documents.",
       "dueDate": "2023-10-20T00:00:00Z",
-      "isCompleted": false,
+      "isCompleted": false
     }
   ],
   "profile": {
