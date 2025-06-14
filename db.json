@@ -222,7 +222,7 @@
     {
       "id": 4,
       "title": "Complete the application form",
-      "description": "Fill out the application form for naturalization.",
+      "description": "Fill out the application form for naturalization. Fill out the application form for naturalization. Fill out the application form for naturalization. Fill out the application form for naturalization. Fill out the application form for naturalization. Fill out the application form for naturalization.",
       "dueDate": "2025-08-15T00:00:00Z",
       "isCompleted": false,
       "taskMode": "My Task",
@@ -231,7 +231,7 @@
     {
       "id": 5,
       "title": "Complete the application form",
-      "description": "Fill out the application form for naturalization.",
+      "description": "",
       "dueDate": "2025-09-15T00:00:00Z",
       "isCompleted": false,
       "taskMode": "My Task",
