@@ -157,6 +157,7 @@
     {
       "id": 7,
       "chatId": 3,
+      "senderId": 4,
       "body": "Hey there! Welcome to your inbox.",
       "createdAt": "2021-05-02T14:30:00Z",
       "replyTo": 6,
